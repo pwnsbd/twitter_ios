@@ -4,7 +4,7 @@ This is a basic twitter app to read your tweets.
 
 Time spent: **7** hours spent in total
 
-## While building this app i learned many thing like requesting api calls, find error (back tracking), making calls on button clicks, making app user friend by remembering if they logged out or not.
+#### While building this app i learned many thing like requesting api calls, find error (back tracking), making calls on button clicks, making app user friend by remembering if they logged out or not.
 
 The following **required** functionality is completed:
 
